@@ -49,7 +49,7 @@
 ;; You can export an org-file to a buffer, file or file and open.
 
 ;;; Code:
-(require 'cl)
+(require 'cl-lib)
 (require 'ox-md)
 (require 'ox-org)
 (require 's)
